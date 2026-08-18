@@ -1,0 +1,87 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>MSF Attack Planner Web v0.3.8</title>
+  <link rel="stylesheet" href="css/app.css?v=0.3.8">
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <div class="eyebrow">MARVEL STRIKE FORCE</div>
+      <h1>MSF Attack Planner <span>Web v0.3.8</span></h1>
+    </div>
+    <div class="mode-switch" role="group" aria-label="Planner mode">
+      <button id="warMode" class="active">Alliance War</button>
+      <button id="ccMode">Cosmic Crucible</button>
+    </div>
+  </header>
+
+  <main>
+    <section class="status-card">
+      <div>
+        <strong id="season">Loading counter data…</strong>
+        <div id="source" class="muted"></div>
+      </div>
+      <div class="status-actions">
+        <button id="defenseBtn" class="secondary">My War Defense <span id="defenseCount">0/12</span></button>
+        <button id="clearBtn" class="ghost">Clear Attacks</button>
+      </div>
+    </section>
+
+    <section class="panel">
+      <div class="section-heading">
+        <div>
+          <h2 id="remainingTitle">Remaining Attacks</h2>
+          <p id="hint">Plan only the attacks you still need.</p>
+        </div>
+        <div class="row-actions">
+          <button id="removeBtn" class="ghost">− Remove Attack</button>
+          <button id="addBtn" class="secondary">+ Add Attack</button>
+        </div>
+      </div>
+      <div id="rooms" class="rooms"></div>
+      <button id="buildBtn" class="primary wide">Build War Plan</button>
+    </section>
+
+    <section id="resultsPanel" class="panel results-panel hidden">
+      <div class="section-heading"><div><h2>Attack Plan</h2><p>Optimized using the same scoring and conflict penalties as desktop v0.4.0.</p></div></div>
+      <div id="results"></div>
+    </section>
+  </main>
+
+  <dialog id="defenseDialog">
+    <form method="dialog" class="dialog-shell">
+      <div class="dialog-header">
+        <div><div class="eyebrow">OPTIONAL</div><h2>My War Defense</h2></div>
+        <button value="cancel" class="icon-btn" aria-label="Close">×</button>
+      </div>
+      <p class="muted">Save up to 12 defenses. Each must contain exactly five unique characters. Those characters will be excluded from War offense plans.</p>
+      <div id="savedDefenses" class="saved-defenses"></div>
+      <div class="defense-editor">
+        <div class="template-box">
+          <label>Start from a Marvel Church team template
+            <select id="teamTemplate"><option value=""></option></select>
+          </label>
+          <div class="template-actions">
+            <button type="button" id="useTemplate" class="secondary">Use Team</button>
+          </div>
+          <div id="templateMessage" class="muted template-note">Choose a team to name the defense and start from that template; all five character slots remain editable.</div>
+        </div>
+        <label>Defense name<input id="defName" placeholder="e.g. Alpha Flight"></label>
+        <div id="memberInputs" class="member-grid"></div>
+        <div class="dialog-actions">
+          <button type="button" id="newDefense" class="ghost">New</button>
+          <button type="button" id="deleteDefense" class="danger">Delete</button>
+          <button type="button" id="saveDefense" class="primary">Save Defense</button>
+        </div>
+        <div id="defenseMessage" class="message"></div>
+      </div>
+    </form>
+  </dialog>
+
+  <script src="js/planner.js?v=0.3.8"></script>
+  <script src="js/app.js?v=0.3.8"></script>
+</body>
+</html>

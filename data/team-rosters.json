@@ -1,0 +1,554 @@
+{
+  "_meta": {
+    "source": "Marvel Church Team Breakdowns",
+    "generated_at": "2026-08-18T16:47:22Z",
+    "failures": [
+      "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster."
+    ]
+  },
+  "teams": {
+    "(Hero)Asgardians": [
+      "Valkyrie",
+      "Heimdall",
+      "Thor",
+      "Mighty Thor",
+      "Sif"
+    ],
+    "A-Force": [
+      "Jessica Jones",
+      "Spider Woman",
+      "Nico Minoru",
+      "Photon",
+      "Captain Marvel"
+    ],
+    "Absolute A-Force": [
+      "Ms. Marvel (Classic)",
+      "Wasp",
+      "Ironheart",
+      "Kahhori",
+      "Medusa"
+    ],
+    "Accursed": [
+      "Juggernaut",
+      "Mordo",
+      "Hellverine",
+      "Satana",
+      "The Hood"
+    ],
+    "Alpha Flight": [
+      "Sasquatch",
+      "Wolverine",
+      "Guardian",
+      "Sunfire",
+      "Northstar"
+    ],
+    "Amazing Avenger": [
+      "Rachel Cole-Alves",
+      "Spider-Woman (Julia)",
+      "Blade (Mighty)",
+      "Spider-Man",
+      "Hulk"
+    ],
+    "Astral": [
+      "Doctor Strange",
+      "Shadow King",
+      "Moondragon",
+      "Ancient One",
+      "Emma Frost (X-Men)"
+    ],
+    "Bifrost": [
+      "Beta Ray Bill",
+      "Vahl",
+      "Loki (Teen)",
+      "Sylvie",
+      "Loki"
+    ],
+    "Bionic Avenger": [
+      "Viv Vision",
+      "Vision",
+      "Deathlok",
+      "Iron Man",
+      "Hulkbuster"
+    ],
+    "Black Order": [
+      "Cull Obsidian",
+      "Thanos",
+      "Ebony Maw",
+      "Corvus Glaive",
+      "Proxima Midnight"
+    ],
+    "Brimstone": [
+      "Living Mummy",
+      "Strange (Heartless)",
+      "Daimon Hellstrom",
+      "Elsa Bloodstone",
+      "Hellcat"
+    ],
+    "Cabal": [
+      "Iron Patriot",
+      "Namor",
+      "The Leader"
+    ],
+    "Champion": [
+      "Nova (Sam Alexander)",
+      "Spider-Man (Miles)",
+      "Moon Girl",
+      "Brawn",
+      "Ms. Marvel"
+    ],
+    "Daring Warrior": [
+      "Eclipse",
+      "Daredevil",
+      "Night Thrasher",
+      "Jessica Jones",
+      "Speedball"
+    ],
+    "Dark Hunter": [
+      "Elsa Bloodstone",
+      "Mordo",
+      "Gho",
+      "st Rider",
+      "Doctor Voodoo"
+    ],
+    "Darkhold": [
+      "Wong",
+      "Scarlet",
+      "Witch",
+      "Strange (",
+      "Heartless"
+    ],
+    "Death Seed": [
+      "Archangel",
+      "Nemesis",
+      "Magneto",
+      "Psylocke",
+      "Dark Beast"
+    ],
+    "Dread": [
+      "Mister Negative",
+      "Rhino",
+      "Scorpion (Breaker)",
+      "Electro",
+      "Bullseye"
+    ],
+    "Exalted X-Men": [
+      "Angel",
+      "Wolverine",
+      "Storm (Mighty)",
+      "Jubilee",
+      "Morph"
+    ],
+    "Fantastic Four (MCU)": [
+      "Franklin Richards",
+      "Human Torch",
+      "The Thing",
+      "Invisible Woman (MCU)",
+      "Mister Fantastic (MCU)"
+    ],
+    "Galactic Council": [
+      "Blastaar",
+      "Adam Warlock",
+      "Thunderstrike",
+      "Star-Lord",
+      "Quasar"
+    ],
+    "Gamma": [
+      "Hulk",
+      "Red Hulk",
+      "Abomination",
+      "Brawn",
+      "She-Hulk"
+    ],
+    "Hellfire Club": [
+      "Sebastian Shaw",
+      "Emma Frost",
+      "Azazel",
+      "Madelyne Pryor",
+      "Rachel Summers"
+    ],
+    "Heroes For Hire": [
+      "Shang-Chi",
+      "Misty Knight",
+      "Luke Cage",
+      "Colleen Wing",
+      "Iron Fist"
+    ],
+    "Hive-Mind": [
+      "Void Knight",
+      "Gwenom",
+      "Venom",
+      "Carnage"
+    ],
+    "Illuminati": [
+      "Captain Britain",
+      "Black Bolt",
+      "Black Panther (Shuri)",
+      "Mister Fantastic",
+      "Hank Pym"
+    ],
+    "Immortal Weapon": [
+      "Steel Serpent",
+      "Lady Bullseye",
+      "Sword Master",
+      "Iron Fist (WWII)",
+      "Iron Fist"
+    ],
+    "Immortal X-Men": [
+      "Beast",
+      "Cable",
+      "Jean Grey",
+      "Polaris",
+      "Storm"
+    ],
+    "Infestation": [
+      "Spider-Man (Big Time)",
+      "Yellowjacket",
+      "Black Widow",
+      "Ant-Man",
+      "Swarm"
+    ],
+    "Infinity Watch": [
+      "Phyla-Vell",
+      "Moondragon",
+      "Gamora",
+      "Nebula",
+      "Adam Warlock"
+    ],
+    "Insidious Six": [
+      "Scorpion",
+      "Vulture",
+      "Superior Spider-Man",
+      "Shocker",
+      "Hobgoblin"
+    ],
+    "Invader": [
+      "Nick Fury",
+      "Captain America (WW II)",
+      "Iron Fist (WW II)",
+      "Union Jack",
+      "Bucky Barnes"
+    ],
+    "Knowhere": [
+      "Korg",
+      "Cosmo",
+      "Nova",
+      "Thor (Infinity War)",
+      "Star-Lord (Annihilation)"
+    ],
+    "Liberty": [
+      "Peggy Carter",
+      "Patriot",
+      "Falcon (Joaquin)",
+      "War Machine",
+      "Captain America (Sam)"
+    ],
+    "Marauder": [
+      "Stryfe",
+      "Mystique",
+      "Mister Sinister",
+      "Emma Frost",
+      "Madelyne Pryor"
+    ],
+    "Masters of Evil": [
+      "Absorbing Man",
+      "Titania",
+      "Ultron",
+      "Moonstone",
+      "Kang The Conqueror"
+    ],
+    "Mercs For Money": [
+      "Pandapool",
+      "Old Man Logan",
+      "Deadpool",
+      "Deathpool",
+      "Daken"
+    ],
+    "Mighty Avenger": [
+      "Hercules",
+      "Invisible Woman",
+      "Scarlet Witch",
+      "Vision",
+      "Falcon"
+    ],
+    "New Avenger": [
+      "Mockingbird",
+      "Ronin",
+      "Agent Coulson",
+      "The Thing",
+      "Tigra"
+    ],
+    "New Mutant": [
+      "Warlock",
+      "Sunspot",
+      "Wolfsbane",
+      "Magik",
+      "Cannonball"
+    ],
+    "New Warrior": [
+      "Firestar",
+      "Dagger",
+      "Deathpool",
+      "Cloak",
+      "Gwenpool"
+    ],
+    "Nightstalker": [
+      "Man-Thing",
+      "Moon Knight",
+      "Oath",
+      "Blade",
+      "Agatha Harkness"
+    ],
+    "Omen": [
+      "Silver Surfer (Breaker)",
+      "Minn-Erva",
+      "Ebony Maw",
+      "Ronan the Accuser",
+      "Cull Obsidian"
+    ],
+    "Orchis": [
+      "Sentinel",
+      "Lady Deathstrike",
+      "Scientist Supreme",
+      "Omega Sentinel",
+      "Nimrod"
+    ],
+    "Out Of Time": [
+      "Captain C",
+      "arter",
+      "Cosmic Ghost Rider",
+      "Starbrand",
+      "Captain America"
+    ],
+    "P.E.G.A.S.U.S.": [
+      "Darkhawk",
+      "Iron Man (Infinity War)",
+      "Kestrel",
+      "Rescue",
+      "Ironheart (MK II)"
+    ],
+    "Phoenix Force": [
+      "Phoenix",
+      "Magneto (Phoenix Force)",
+      "Omega Red (Phoenix Force)"
+    ],
+    "Pym Tech": [
+      "Stature",
+      "Ghost",
+      "Ant-Man",
+      "Wasp",
+      "Yellowjacket"
+    ],
+    "Ravager": [
+      "Ravager Bruiser",
+      "Star-Lord (T’Challa)",
+      "Yondu",
+      "Ravager Boomer",
+      "Ravager Stitcher"
+    ],
+    "Rebirth": [
+      "Winter Soldier",
+      "U. S. Agent",
+      "Captain America",
+      "Captain Carter",
+      "Agent Venom"
+    ],
+    "Retcon": [
+      "Gwenpool",
+      "Deadpool",
+      "Jeff the Land Shark",
+      "Squirrel Girl",
+      "She-Hulk"
+    ],
+    "Secret Avenger": [
+      "Captain America (Sam)",
+      "Sharon Carter",
+      "Maria Hill"
+    ],
+    "Secret Defender": [
+      "Photon",
+      "Ghost Rider (Robbie)",
+      "Doctor Strange",
+      "Black Cat",
+      "Ms. Marvel (Hard Light)"
+    ],
+    "Secret Warrior": [
+      "Yo-Yo",
+      "Domino",
+      "Phantom Rider",
+      "Quake",
+      "Negasonic"
+    ],
+    "Shadow Conclave": [
+      "Sylvie",
+      "High Evolutionary",
+      "Thanos",
+      "Executioner",
+      "Malekith"
+    ],
+    "Shadowland": [
+      "Moon Knight",
+      "Elektra",
+      "Night Nurse",
+      "Daredevil",
+      "White Tiger"
+    ],
+    "Sinister Six": [
+      "Electro",
+      "Vulture",
+      "Shocker",
+      "Mysterio",
+      "Rhino"
+    ],
+    "Spider-Society": [
+      "Spider-Man (Pavitr)",
+      "Peter B. Parker",
+      "Ghost-Spider",
+      "Spider-Man (Noir)",
+      "Peni Parker"
+    ],
+    "Starjammer": [
+      "Rocket Raccoon",
+      "Havok",
+      "Howard the Duck",
+      "Lilandra",
+      "Groot"
+    ],
+    "Superior Six": [
+      "Lizard",
+      "Doctor Octopus",
+      "Green Goblin (Classic)",
+      "Kraven the Hunter",
+      "Spider-Slayer"
+    ],
+    "Symbiote Six": [
+      "Quicksilver (Symbiote)",
+      "Toxin",
+      "Knull",
+      "Venom",
+      "Riot"
+    ],
+    "Symbiotes": [
+      "Anti-Venom",
+      "Scream",
+      "Carnage",
+      "Spider-Man (Symbiote)",
+      "Venom"
+    ],
+    "Tangled Web": [
+      "Spider-Man 2099",
+      "Spider Weaver",
+      "Spider-Man (Noir)"
+    ],
+    "Thunderbolt": [
+      "Songbird",
+      "Taskmaster",
+      "Victoria Hand",
+      "Ghost",
+      "Hyperion"
+    ],
+    "Timeless Eternal": [
+      "Thena",
+      "Sersi",
+      "Gilgamesh",
+      "Ikaris",
+      "Kingo"
+    ],
+    "Uncanny Avengers": [
+      "Hercules",
+      "Beast",
+      "Jean Grey",
+      "Storm",
+      "Falcon"
+    ],
+    "Uncanny X-Men": [
+      "Colossus",
+      "Phoenix",
+      "Magik",
+      "Cyclops",
+      "Storm"
+    ],
+    "Underworld": [
+      "Kingpin",
+      "Nobu",
+      "Mister Negative",
+      "Green Goblin",
+      "Taskmaster"
+    ],
+    "Undying": [
+      "Hela",
+      "Scarlet Witch (Zombie)",
+      "Kestrel (Zombie)",
+      "Iron Man (Zombie)",
+      "Juggernaut (Zombie)"
+    ],
+    "Unlimited X-Men": [
+      "Rogue",
+      "Fantomex",
+      "Gambit",
+      "Sunfire",
+      "Dazzler"
+    ],
+    "Vigilante": [
+      "Daredevil (Modern)",
+      "Elektra",
+      "Silver Sable",
+      "Punisher",
+      "Hit-Monkey"
+    ],
+    "War Dog": [
+      "Black Panther (1MM)",
+      "Okoye",
+      "Black Panther",
+      "Nakia",
+      "Shuri"
+    ],
+    "Weapon X": [
+      "Lady Deathstrike",
+      "Sabretooth",
+      "Omega Red",
+      "Wolverine",
+      "Silver Samurai"
+    ],
+    "Web-Warrior": [
+      "Spider-Man",
+      "Spider-M",
+      "an (Miles)",
+      "Ghost-Spider",
+      "Scarlet Spider"
+    ],
+    "Winter Guard": [
+      "Ursa Major",
+      "Omega Red",
+      "Darkstar",
+      "Yelena Belova",
+      "Red Guardian"
+    ],
+    "X-Factor": [
+      "Longshot",
+      "Multiple Man",
+      "Polaris",
+      "Shatterstar"
+    ],
+    "X-Force": [
+      "Cable",
+      "Domino",
+      "Deadpool",
+      "X-23",
+      "Negasonic"
+    ],
+    "X-Treme X-Men": [
+      "Forge",
+      "Nightcrawler",
+      "Cyclops",
+      "Gambit",
+      "Sunspot"
+    ],
+    "Young Avenger": [
+      "Ms. Marvel",
+      "Squirrel Girl",
+      "America Chavez",
+      "Echo",
+      "Kate Bishop"
+    ]
+  }
+}
