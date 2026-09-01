@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-08-31T10:21:34Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-01T10:30:30Z)",
     "defenses": [
       {
         "group": "Phoenix Force + 2",
@@ -4128,6 +4128,15 @@
             "score": 50
           },
           {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 50
+          },
+          {
             "display": "Illuminati + Ares + Old Man Logan",
             "rating": "▲▲",
             "notes": "",
@@ -4219,6 +4228,15 @@
             "score": 50
           },
           {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 50
+          },
+          {
             "display": "Illuminati + Ares + Old Man Logan",
             "rating": "▲▲",
             "notes": "",
@@ -4293,6 +4311,15 @@
             "score": 50
           },
           {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 50
+          },
+          {
             "display": "Illuminati + Ares + Old Man Logan",
             "rating": "▲▲",
             "notes": "",
@@ -4346,6 +4373,15 @@
             "notes": "",
             "tokens": [
               "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
             ],
             "score": 50
           },
@@ -4448,6 +4484,15 @@
               "kahhori",
               "scientist supreme (blastaar needs to have awakened basic and passive; thunderstrike needs to have awakened passive)",
               "thunderstrike"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
             ],
             "score": 50
           },
@@ -5436,6 +5481,15 @@
             "score": 40
           },
           {
+            "display": "Dread",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 40
+          },
+          {
             "display": "Daring Warrior",
             "rating": "▲▲",
             "notes": "",
@@ -5616,6 +5670,15 @@
             "score": 50
           },
           {
+            "display": "Dread",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 40
+          },
+          {
             "display": "Phoenix Force + Odin + Darkstar",
             "rating": "▲▲",
             "notes": "",
@@ -5625,6 +5688,25 @@
               "phoenix force"
             ],
             "score": 40
+          }
+        ]
+      },
+      {
+        "group": "New Mutant",
+        "variant": "New Mutant + Quicksilver (Symbiote)",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Apocalypse + Strange (Heartless) + Iron Patriot",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "apocalypse",
+              "daimon hellstrom",
+              "iron patriot",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
           }
         ]
       },
@@ -6018,6 +6100,15 @@
               "vulture"
             ],
             "score": 50
+          },
+          {
+            "display": "Accursed",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 50
           }
         ]
       },
@@ -6065,6 +6156,15 @@
               "insidious six",
               "sentry",
               "vulture"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Accursed",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed"
             ],
             "score": 50
           }
@@ -6643,6 +6743,17 @@
               "kahhori",
               "scientist supreme (blastaar needs to have awakened basic and passive, thunderstrike needs to have awakened passive)",
               "thunderstrike"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU) + Shadow King + Jeff the Land Shark",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "fantastic four (mcu)",
+              "jeff the land shark",
+              "shadow king"
             ],
             "score": 50
           }
@@ -7406,6 +7517,64 @@
               "sentry"
             ],
             "score": 50
+          },
+          {
+            "display": "Sentry + Nick Fury + Odin + Havok + Silver Surfer (Breaker) (Stun Riot with Havok’s Special)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "havok",
+              "nick fury",
+              "odin",
+              "sentry",
+              "silver surfer (breaker) (stun riot with havok’s special)"
+            ],
+            "score": 50
+          }
+        ]
+      },
+      {
+        "group": "Symbiote Six",
+        "variant": "Symbiote Six + Captain Britain",
+        "counters": [
+          {
+            "display": "Sentry + Nick Fury + Darkstar + Havok + Shadow King Sentry Skirmisher, other Strikers, Stun Riot with Havok’s Special",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "darkstar",
+              "havok",
+              "nick fury",
+              "sentry",
+              "shadow king sentry skirmisher, other strikers, stun riot with havok’s special"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Sentry + Nick Fury + Professor Xavier + Jeff the Land Shark + Quasar Sentry Skirmisher, other Strikers, focus on Riot",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "jeff the land shark",
+              "nick fury",
+              "professor xavier",
+              "quasar sentry skirmisher, other strikers, focus on riot",
+              "sentry"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Sentry + Nick Fury + Odin + Havok + Silver Surfer (Breaker) (Stun Riot with Havok’s Special)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "havok",
+              "nick fury",
+              "odin",
+              "sentry",
+              "silver surfer (breaker) (stun riot with havok’s special)"
+            ],
+            "score": 50
           }
         ]
       },
@@ -7425,6 +7594,19 @@
               "silver surfer (breaker)"
             ],
             "score": 30
+          }
+        ]
+      },
+      {
+        "group": "Symbiote Six",
+        "variant": "Knull + Riot + Venom + Annihilus + Thanos",
+        "counters": [
+          {
+            "display": "Burn attack with Immortal X-Men (pause at start of combat, do not allow anyone to play), and then: Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [],
+            "score": 40
           }
         ]
       },
@@ -7510,6 +7692,69 @@
               "thunderbolt"
             ],
             "score": 5
+          }
+        ]
+      },
+      {
+        "group": "Timeless Eternal",
+        "variant": "Timeless Eternal",
+        "counters": [
+          {
+            "display": "Insidious Six + Vulture + Green Goblin (Classic)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "insidious six",
+              "vulture"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU) + Oath/Kang/Cable",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "cable",
+              "fantastic four (mcu)",
+              "kang",
+              "oath"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Symbiote Six + Oath/Kang/Cable",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "cable",
+              "kang",
+              "oath",
+              "symbiote six"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Blastaar + Thunderstrike + Kahhori + Guardian + Scientist Supreme (Blastaar needs to have Awakened Basic and Passive)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "blastaar",
+              "guardian",
+              "kahhori",
+              "scientist supreme (blastaar needs to have awakened basic and passive)",
+              "thunderstrike"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Starjammer",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "starjammer"
+            ],
+            "score": 50
           }
         ]
       },
@@ -7953,7 +8198,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-08-31T10:21:34Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-01T10:30:30Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",

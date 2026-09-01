@@ -154,6 +154,7 @@
     "Iron Man (Infinity War)",
     "Iron Man (Zombie)",
     "Iron Man [Zombie]",
+    "Iron Monger",
     "Iron Patriot",
     "Ironheart",
     "Ironheart (MK II)",
@@ -375,6 +376,7 @@
     "U. S. Agent",
     "Ultimus",
     "Ultron",
+    "Ulysses Klaue",
     "Union Jack",
     "Ursa Major",
     "Vahl",
@@ -388,6 +390,7 @@
     "War Machine",
     "Warlock",
     "Wasp",
+    "Whiplash",
     "White Tiger",
     "Winter Soldier",
     "Witch",
@@ -401,5 +404,5 @@
     "Yondu"
   ],
   "source": "Marvel Church character directory + Team Breakdown rosters",
-  "generated_at": "2026-08-31T10:21:34Z"
+  "generated_at": "2026-09-01T10:30:30Z"
 }
