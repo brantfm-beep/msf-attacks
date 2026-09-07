@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-09-06T10:26:05Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-07T10:28:22Z)",
     "defenses": [
       {
         "group": "Phoenix Force + 2",
@@ -2232,6 +2232,28 @@
             "score": 50
           },
           {
+            "display": "Blastaar + Thunderstrike + Quasar + Songbird + Silver Surfer (Breaker)",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "blastaar",
+              "quasar",
+              "silver surfer (breaker)",
+              "songbird",
+              "thunderstrike"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Symbiote Six",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
+            ],
+            "score": 40
+          },
+          {
             "display": "Shadow King + Quasar + Jeff the Land Shark + Darkstar + Blade",
             "rating": "▲▲",
             "notes": "",
@@ -2243,19 +2265,6 @@
               "shadow king"
             ],
             "score": 40
-          },
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Guardian (Daimon and Yo-Yo needs to be maxed, with at least 3 Diamonds)",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "guardian (daimon and yo-yo needs to be maxed, with at least 3 diamonds)",
-              "iron patriot",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 30
           },
           {
             "display": "Fantastic Four (MCU) + Professor Xavier + Silver Surfer (Breaker)",
@@ -2278,6 +2287,19 @@
               "shadow king and the thing)"
             ],
             "score": 10
+          },
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Guardian (Daimon and Yo-Yo needs to be maxed, with at least 3 Diamonds)",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "guardian (daimon and yo-yo needs to be maxed, with at least 3 diamonds)",
+              "iron patriot",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 0
           }
         ]
       },
@@ -2285,6 +2307,15 @@
         "group": "Daring Warrior",
         "variant": "Daring Warrior + Blue Marvel",
         "counters": [
+          {
+            "display": "Symbiote Six",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
+            ],
+            "score": 40
+          },
           {
             "display": "Fantastic Four (MCU) + Professor Xavier + Silver Surfer (Breaker)",
             "rating": "▲",
@@ -2298,7 +2329,7 @@
           },
           {
             "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Sentry + Guardian (Daimon and Yo-Yo needs to be maxed, with at least 3 Diamonds)",
-            "rating": "▲",
+            "rating": "▼▼",
             "notes": "",
             "tokens": [
               "daimon hellstrom",
@@ -2307,7 +2338,7 @@
               "strange (heartless)",
               "yo-yo"
             ],
-            "score": 30
+            "score": 5
           }
         ]
       },
@@ -2339,7 +2370,7 @@
           },
           {
             "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Guardian (Daimon and Yo-Yo needs to be maxed, with at least 3 Diamonds)",
-            "rating": "▲",
+            "rating": "▼▼▼",
             "notes": "",
             "tokens": [
               "daimon hellstrom",
@@ -2348,7 +2379,7 @@
               "strange (heartless)",
               "yo-yo"
             ],
-            "score": 30
+            "score": 0
           }
         ]
       },
@@ -8198,7 +8229,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-09-06T10:26:05Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-07T10:28:22Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
