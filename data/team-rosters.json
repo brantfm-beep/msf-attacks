@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "Marvel Church Team Breakdowns",
-    "generated_at": "2026-09-20T14:14:23Z",
+    "generated_at": "2026-09-21T16:28:51Z",
     "failures": [
       "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster."
     ]
@@ -522,6 +522,13 @@
       "an (Miles)",
       "Ghost-Spider",
       "Scarlet Spider"
+    ],
+    "West Coast Avenger": [
+      "Tigra",
+      "War Machine",
+      "Wasp (Janet)",
+      "Mockingbird",
+      "Hawkeye"
     ],
     "Winter Guard": [
       "Ursa Major",
