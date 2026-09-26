@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-09-25T15:16:36Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-26T14:29:57Z)",
     "defenses": [
       {
         "group": "Phoenix Force + 2",
@@ -7405,6 +7405,15 @@
         "variant": "Symbiote Six",
         "counters": [
           {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
             "display": "Sentry + Nick Fury + Darkstar + Havok + Shadow King Sentry Skirmisher, others Strikers, Stun Riot with Havok’s Special",
             "rating": "▲▲▲",
             "notes": "",
@@ -7414,15 +7423,6 @@
               "nick fury",
               "sentry",
               "shadow king sentry skirmisher, others strikers, stun riot with havok’s special"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Exalted X-Men",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "exalted x-men"
             ],
             "score": 50
           },
@@ -7511,6 +7511,15 @@
         "variant": "Symbiote Six + Howard the Duck",
         "counters": [
           {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
             "display": "Franklin Richards + Invisible Woman (MCU) + Human Torch + Havok + Nick Fury (Human Torch Skirmisher, other Strikers, Stun Riot with Havok’s Special)",
             "rating": "▲▲▲",
             "notes": "",
@@ -7569,6 +7578,15 @@
         "variant": "Symbiote Six + Captain Britain",
         "counters": [
           {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
             "display": "Sentry + Nick Fury + Darkstar + Havok + Shadow King Sentry Skirmisher, other Strikers, Stun Riot with Havok’s Special",
             "rating": "▲▲▲",
             "notes": "",
@@ -7613,6 +7631,15 @@
         "group": "Symbiote Six",
         "variant": "Symbiote Six + Professor Xavier",
         "counters": [
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
           {
             "display": "Franklin Richards + Invisible Woman (MCU) + Human Torch + Professor Xavier + Silver Surfer (Breaker)",
             "rating": "▲",
@@ -8229,7 +8256,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-09-25T15:16:36Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-26T14:29:57Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
