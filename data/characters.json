@@ -124,6 +124,7 @@
     "Hank Pym",
     "Havok",
     "Hawkeye",
+    "Hawkeye (Robot)",
     "Heartless",
     "Heimdall",
     "Hela",
@@ -137,6 +138,7 @@
     "Hulk",
     "Hulkbuster",
     "Human Torch",
+    "Human Torch (Jim)",
     "Hydra Armored Guard",
     "Hydra Grenadier",
     "Hydra Rifle Trooper",
@@ -162,6 +164,7 @@
     "Jean Grey",
     "Jeff The Land Shark",
     "Jessica Jones",
+    "Jocasta",
     "Jubilee",
     "Juggernaut",
     "Juggernaut (Zombie)",
@@ -405,5 +408,5 @@
     "Yondu"
   ],
   "source": "Marvel Church character directory + Team Breakdown rosters",
-  "generated_at": "2026-09-26T14:29:57Z"
+  "generated_at": "2026-09-27T15:10:23Z"
 }
