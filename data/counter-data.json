@@ -2,19 +2,18 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-09-27T15:10:23Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-28T18:10:25Z)",
     "defenses": [
       {
         "group": "Phoenix Force + 2",
         "variant": "Phoenix Force + Professor Xavier + Kahhori",
         "counters": [
           {
-            "display": "Exalted X-Men + Sentry (no Morph)",
+            "display": "Exalted X-Men",
             "rating": "▲▲▲",
             "notes": "",
             "tokens": [
-              "exalted x-men",
-              "sentry"
+              "exalted x-men"
             ],
             "score": 50
           }
@@ -64,6 +63,19 @@
         "variant": "Phoenix Force + Thanos + Darkstar",
         "counters": [
           {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
             "display": "Professor Xavier + Jeff the Land Shark + Quasar + Red Guardian + Darkstar",
             "rating": "▲▲",
             "notes": "",
@@ -75,6 +87,15 @@
               "red guardian"
             ],
             "score": 40
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
           }
         ]
       },
@@ -83,6 +104,19 @@
         "variant": "Phoenix Force + Shadow King + Songbird",
         "counters": [
           {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
             "display": "Exalted X-Men",
             "rating": "▲▲",
             "notes": "",
@@ -90,19 +124,6 @@
               "exalted x-men"
             ],
             "score": 40
-          },
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Guardian + Sentry",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "guardian",
-              "sentry",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 30
           }
         ]
       },
@@ -124,13 +145,11 @@
             "score": 40
           },
           {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "display": "Daring Warrior",
             "rating": "▲▲",
             "notes": "",
             "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
+              "daring warrior"
             ],
             "score": 40
           }
@@ -243,6 +262,19 @@
             "score": 30
           },
           {
+            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "hobgoblin",
+              "mysterio",
+              "superior spider-man",
+              "vulture"
+            ],
+            "score": 30
+          },
+          {
             "display": "Daring Warrior",
             "rating": "▼▼",
             "notes": "",
@@ -265,6 +297,19 @@
               "fantastic four (mcu)",
               "sentry",
               "shadow king"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
             ],
             "score": 50
           },
@@ -382,6 +427,19 @@
         "group": "Phoenix Force + 2",
         "variant": "Phoenix Force + Adam Warlock + Star-Lord",
         "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
           {
             "display": "Daring Warrior + Living Mummy / Gwenpool",
             "rating": "▲▲",
@@ -1029,6 +1087,19 @@
             "score": 50
           },
           {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
             "display": "Symbiote Six",
             "rating": "▲▲▲",
             "notes": "",
@@ -1094,6 +1165,19 @@
             "notes": "",
             "tokens": [
               "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
             ],
             "score": 50
           },
@@ -2453,12 +2537,11 @@
             "score": 30
           },
           {
-            "display": "Daring Warrior + Sentry (no Jessica Jones)",
+            "display": "Daring Warrior",
             "rating": "▲",
             "notes": "",
             "tokens": [
-              "daring warrior",
-              "sentry"
+              "daring warrior"
             ],
             "score": 30
           }
@@ -2493,6 +2576,22 @@
             "notes": "",
             "tokens": [],
             "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Exalted X-Men",
+        "variant": "Exalted X-Men + Quasar",
+        "counters": [
+          {
+            "display": "Dread + Silver Surfer (Breaker) (no Rhino)",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "dread",
+              "silver surfer (breaker)"
+            ],
+            "score": 30
           }
         ]
       },
@@ -5473,7 +5572,7 @@
             "score": 50
           },
           {
-            "display": "Apocalypse + Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot",
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Apocalypse",
             "rating": "▲▲▲",
             "notes": "",
             "tokens": [
@@ -5555,13 +5654,14 @@
             "score": 40
           },
           {
-            "display": "Exalted X-Men",
-            "rating": "▼",
+            "display": "Accursed + Storm",
+            "rating": "▲▲",
             "notes": "",
             "tokens": [
-              "exalted x-men"
+              "accursed",
+              "storm"
             ],
-            "score": 10
+            "score": 40
           },
           {
             "display": "Professor Xavier + Daimon Hellstrom + Yo-Yo + Songbird + Iron Patriot",
@@ -5604,14 +5704,14 @@
         "variant": "New Mutant + Blue Marvel",
         "counters": [
           {
-            "display": "Daimon Hellstrom + Yo-Yo + Captain Britain + Apocalypse + Iron Patriot",
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Elsa Bloodstone",
             "rating": "▲▲",
             "notes": "",
             "tokens": [
-              "apocalypse",
-              "captain britain",
               "daimon hellstrom",
+              "elsa bloodstone",
               "iron patriot",
+              "strange (heartless)",
               "yo-yo"
             ],
             "score": 40
@@ -5719,6 +5819,16 @@
               "phoenix force"
             ],
             "score": 40
+          },
+          {
+            "display": "Accursed + Odin",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed",
+              "odin"
+            ],
+            "score": 40
           }
         ]
       },
@@ -5727,7 +5837,7 @@
         "variant": "New Mutant + Quicksilver (Symbiote)",
         "counters": [
           {
-            "display": "Daimon Hellstrom + Yo-Yo + Apocalypse + Strange (Heartless) + Iron Patriot",
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Apocalypse",
             "rating": "▲▲▲",
             "notes": "",
             "tokens": [
@@ -5738,6 +5848,35 @@
               "yo-yo"
             ],
             "score": 50
+          }
+        ]
+      },
+      {
+        "group": "New Mutant",
+        "variant": "New Mutant + Executioner",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Apocalypse",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "apocalypse",
+              "daimon hellstrom",
+              "iron patriot",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Accursed + Storm",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed",
+              "storm"
+            ],
+            "score": 40
           }
         ]
       },
@@ -7100,6 +7239,15 @@
             "score": 50
           },
           {
+            "display": "Amazing Avenger",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "amazing avenger"
+            ],
+            "score": 40
+          },
+          {
             "display": "Fantastic Four (MCU) + Professor Xavier + Quasar",
             "rating": "▲▲",
             "notes": "",
@@ -8256,7 +8404,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-09-27T15:10:23Z)",
+    "source": "Marvel Church scheduled refresh (2026-09-28T18:10:25Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
