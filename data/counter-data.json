@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-10-05T19:18:29Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-06T16:49:14Z)",
     "defenses": [
       {
         "group": "Phoenix Force + 2",
@@ -8404,7 +8404,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-10-05T19:18:29Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-06T16:49:14Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -17949,6 +17949,16 @@
         "variant": "Symbiote Six",
         "counters": [
           {
+            "display": "Brimstone + Odin (no Elsa Bloodstone)",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "brimstone",
+              "odin"
+            ],
+            "score": 40
+          },
+          {
             "display": "Symbiote Six + Oath (no Venom)",
             "rating": "▲▲",
             "notes": "",
@@ -18274,89 +18284,16 @@
         "variant": "Timeless Eternal",
         "counters": [
           {
-            "display": "Brimstone + Oath / Kang / Cable",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "brimstone",
-              "cable",
-              "kang",
-              "oath"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Symbiote Six + Oath (no Riot) – Stun Gilgamesh with Toxin’s Special",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "oath – stun gilgamesh with toxin’s special",
-              "symbiote six"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Storm (Mighty) + Quasar + Old Man Logan + Odin + Oath – Gilgamesh needs to be the primary or secondary target of Quasar’s Ultimate",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "oath – gilgamesh needs to be the primary or secondary target of quasar’s ultimate",
-              "odin",
-              "old man logan",
-              "quasar",
-              "storm (mighty)"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Insidious Six + Green Goblin (Classic) (no Shocker) – focus on Gilgamesh",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "green goblin (classic) – focus on gilgamesh",
-              "insidious six"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Illuminati + Odin + Sentry – use Captain Britain’s Ultimate on Gilgamesh",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "illuminati",
-              "odin",
-              "sentry"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Omen + Kang (no Cull Obsidian) – not reliable cos Gilgamesh can resist Ability Block from Silver Surfer (Breaker)’s Special",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "kang – not reliable cos gilgamesh can resist ability block from silver surfer (breaker)’s special",
-              "omen"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Shadow Conclave + Cable – Start with Thanos’s Basic – not reliable cos Gilgamesh can resist Ability Block from Executioner’s Ultimate",
-            "rating": "▲▲▲",
+            "display": "Timeless Eternals + Oath/Cable/Kang (no Sersi) (focus on Gligamesh)",
+            "rating": "▲",
             "notes": "",
             "tokens": [
               "cable",
-              "shadow conclave"
+              "kang (focus on gligamesh)",
+              "oath",
+              "timeless eternals"
             ],
-            "score": 50
-          },
-          {
-            "display": "Brimstone – Works only if one or more of Timeless Eternal characters are on 4 Red Stars or lower, and if Daimon Hellstrom and Hellcat are maxed",
-            "rating": "▼",
-            "notes": "",
-            "tokens": [
-              "brimstone – works only if one or more of timeless eternal characters are on 4 red stars or lower, and if daimon hellstrom and hellcat are maxed"
-            ],
-            "score": 10
+            "score": 30
           }
         ]
       },
