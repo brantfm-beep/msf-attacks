@@ -2,471 +2,8 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-10-06T16:49:14Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-07T17:25:50Z)",
     "defenses": [
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Professor Xavier + Kahhori",
-        "counters": [
-          {
-            "display": "Exalted X-Men",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "exalted x-men"
-            ],
-            "score": 50
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Phantom Rider + Gwenpool",
-        "counters": [
-          {
-            "display": "Daring Warrior",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Phantom Rider + Spider-Man (Big Time)",
-        "counters": [
-          {
-            "display": "Daring Warrior",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Exalted X-Men",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "exalted x-men"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Thanos + Darkstar",
-        "counters": [
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "iron patriot",
-              "sentry",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Professor Xavier + Jeff the Land Shark + Quasar + Red Guardian + Darkstar",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "darkstar",
-              "jeff the land shark",
-              "professor xavier",
-              "quasar",
-              "red guardian"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Daring Warrior",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Shadow King + Songbird",
-        "counters": [
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "iron patriot",
-              "sentry",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Exalted X-Men",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "exalted x-men"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Living Mummy + Darkstar",
-        "counters": [
-          {
-            "display": "Franklin Richards + Invisible Woman (MCU) + Human Torch + Captain Britain + Namor",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "captain britain",
-              "franklin richards",
-              "human torch",
-              "invisible woman (mcu)",
-              "namor"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Daring Warrior",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Hank Pym + Black Panther (Shuri)",
-        "counters": [
-          {
-            "display": "Exalted X-Men + Professor Xavier (no Wolverine)",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "exalted x-men",
-              "professor xavier"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Professor Xavier + Odin + Quasar + Songbird + Apocalypse / Ares",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "apocalypse",
-              "ares",
-              "odin",
-              "professor xavier",
-              "quasar",
-              "songbird"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Professor Xavier + Franklin Richards + Invisible Woman (MCU) + Human Torch + Quasar",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "franklin richards",
-              "human torch",
-              "invisible woman (mcu)",
-              "professor xavier",
-              "quasar"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "green goblin (classic)",
-              "hobgoblin",
-              "mysterio",
-              "superior spider-man",
-              "vulture"
-            ],
-            "score": 30
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Nightcrawler + Spider-Man (Big Time)",
-        "counters": [
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Professor Xavier + Sentry + Quasar + Jeff the Land Shark + Gwenpool",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "gwenpool",
-              "jeff the land shark",
-              "professor xavier",
-              "quasar",
-              "sentry"
-            ],
-            "score": 30
-          },
-          {
-            "display": "Fantastic Four (MCU) + Professor Xavier + Quasar",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "fantastic four (mcu)",
-              "professor xavier",
-              "quasar"
-            ],
-            "score": 30
-          },
-          {
-            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "green goblin (classic)",
-              "hobgoblin",
-              "mysterio",
-              "superior spider-man",
-              "vulture"
-            ],
-            "score": 30
-          },
-          {
-            "display": "Daring Warrior",
-            "rating": "▼▼",
-            "notes": "",
-            "tokens": [
-              "daring warrior"
-            ],
-            "score": 5
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Knull + Red Guardian",
-        "counters": [
-          {
-            "display": "Fantastic Four (MCU) + Sentry + Shadow King",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "fantastic four (mcu)",
-              "sentry",
-              "shadow king"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "iron patriot",
-              "sentry",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Nightcrawler + Juggernaut",
-        "counters": [
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Professor Xavier + Shadow King + Songbird + Apocalypse + Storm",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "apocalypse",
-              "professor xavier",
-              "shadow king",
-              "songbird",
-              "storm"
-            ],
-            "score": 30
-          },
-          {
-            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "green goblin (classic)",
-              "hobgoblin",
-              "mysterio",
-              "superior spider-man",
-              "vulture"
-            ],
-            "score": 30
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Spider-Man (Big Time) + Red Guardian",
-        "counters": [
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          },
-          {
-            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
-            "rating": "▲",
-            "notes": "",
-            "tokens": [
-              "green goblin (classic)",
-              "hobgoblin",
-              "mysterio",
-              "superior spider-man",
-              "vulture"
-            ],
-            "score": 30
-          },
-          {
-            "display": "Odin + Red Guardian + Living Mummy + Quasar + Captain Britain",
-            "rating": "▼",
-            "notes": "",
-            "tokens": [
-              "captain britain",
-              "living mummy",
-              "odin",
-              "quasar",
-              "red guardian"
-            ],
-            "score": 10
-          },
-          {
-            "display": "Fantastic Four (MCU) + Sentry + Odin",
-            "rating": "▼▼",
-            "notes": "",
-            "tokens": [
-              "fantastic four (mcu)",
-              "odin",
-              "sentry"
-            ],
-            "score": 5
-          }
-        ]
-      },
-      {
-        "group": "Phoenix Force + 2",
-        "variant": "Phoenix Force + Adam Warlock + Star-Lord",
-        "counters": [
-          {
-            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "daimon hellstrom",
-              "iron patriot",
-              "sentry",
-              "strange (heartless)",
-              "yo-yo"
-            ],
-            "score": 50
-          },
-          {
-            "display": "Daring Warrior + Living Mummy / Gwenpool",
-            "rating": "▲▲",
-            "notes": "",
-            "tokens": [
-              "daring warrior",
-              "gwenpool",
-              "living mummy"
-            ],
-            "score": 40
-          },
-          {
-            "display": "If Magneto (Phoenix Force) had 5 or less Yellow/Red Stars: Daimon Helstrom + Yo-Yo + Strange Heartless + Iron Patriot + Sentry",
-            "rating": "▲▲▲",
-            "notes": "",
-            "tokens": [
-              "if magneto (phoenix force) had 5 or less yellow",
-              "iron patriot",
-              "red stars: daimon helstrom",
-              "sentry",
-              "strange heartless",
-              "yo-yo"
-            ],
-            "score": 50
-          }
-        ]
-      },
       {
         "group": "Absolute A-Force",
         "variant": "Absolute A-Force",
@@ -1189,6 +726,92 @@
               "dread"
             ],
             "score": 40
+          },
+          {
+            "display": "Accursed",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Amazing Avenger",
+        "variant": "Amazing Avenger + Super Skrull",
+        "counters": [
+          {
+            "display": "Immortal X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "immortal x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Dread",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU) + Captain Britain + Shadow King",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "captain britain",
+              "fantastic four (mcu)",
+              "shadow king"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU) + Blastaar + Thunderstrike",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "blastaar",
+              "fantastic four (mcu)",
+              "thunderstrike"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Starjammer",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "starjammer"
+            ],
+            "score": 50
           },
           {
             "display": "Accursed",
@@ -2153,6 +1776,34 @@
               "odin"
             ],
             "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Blue Marvel + Executioner + Howard the Duck + Emma Frost + Emma Frost (X-Men)",
+        "variant": "Blue Marvel + Executioner + Howard the Duck + Emma Frost + Emma Frost (X-Men)",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Dread",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "dread"
+            ],
+            "score": 30
           }
         ]
       },
@@ -5881,6 +5532,34 @@
         ]
       },
       {
+        "group": "New Mutant",
+        "variant": "New Mutant + Silver Surfer (Breaker)",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Apocalypse",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "apocalypse",
+              "daimon hellstrom",
+              "iron patriot",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 30
+          }
+        ]
+      },
+      {
         "group": "Nightstalker",
         "variant": "Nightstalker",
         "counters": [
@@ -6667,6 +6346,484 @@
               "hive-mind"
             ],
             "score": 0
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Professor Xavier + Kahhori",
+        "counters": [
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Phantom Rider + Gwenpool",
+        "counters": [
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Phantom Rider + Spider-Man (Big Time)",
+        "counters": [
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Thanos + Darkstar",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Professor Xavier + Jeff the Land Shark + Quasar + Red Guardian + Darkstar",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "darkstar",
+              "jeff the land shark",
+              "professor xavier",
+              "quasar",
+              "red guardian"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Shadow King + Songbird",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Living Mummy + Darkstar",
+        "counters": [
+          {
+            "display": "Franklin Richards + Invisible Woman (MCU) + Human Torch + Captain Britain + Namor",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "captain britain",
+              "franklin richards",
+              "human torch",
+              "invisible woman (mcu)",
+              "namor"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Hank Pym + Black Panther (Shuri)",
+        "counters": [
+          {
+            "display": "Exalted X-Men + Professor Xavier (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "professor xavier"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Professor Xavier + Odin + Quasar + Songbird + Apocalypse / Ares",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "apocalypse",
+              "ares",
+              "odin",
+              "professor xavier",
+              "quasar",
+              "songbird"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Professor Xavier + Franklin Richards + Invisible Woman (MCU) + Human Torch + Quasar",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "franklin richards",
+              "human torch",
+              "invisible woman (mcu)",
+              "professor xavier",
+              "quasar"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "hobgoblin",
+              "mysterio",
+              "superior spider-man",
+              "vulture"
+            ],
+            "score": 30
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Nightcrawler + Spider-Man (Big Time)",
+        "counters": [
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Professor Xavier + Sentry + Quasar + Jeff the Land Shark + Gwenpool",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "gwenpool",
+              "jeff the land shark",
+              "professor xavier",
+              "quasar",
+              "sentry"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Fantastic Four (MCU) + Professor Xavier + Quasar",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "fantastic four (mcu)",
+              "professor xavier",
+              "quasar"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "hobgoblin",
+              "mysterio",
+              "superior spider-man",
+              "vulture"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▼▼",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 5
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Knull + Red Guardian",
+        "counters": [
+          {
+            "display": "Fantastic Four (MCU) + Sentry + Shadow King",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "fantastic four (mcu)",
+              "sentry",
+              "shadow king"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Nightcrawler + Juggernaut",
+        "counters": [
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Professor Xavier + Shadow King + Songbird + Apocalypse + Storm",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "apocalypse",
+              "professor xavier",
+              "shadow king",
+              "songbird",
+              "storm"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "hobgoblin",
+              "mysterio",
+              "superior spider-man",
+              "vulture"
+            ],
+            "score": 30
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Spider-Man (Big Time) + Red Guardian",
+        "counters": [
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Green Goblin (Classic) + Vulture + Mysterio + Superior Spider-Man + Hobgoblin",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "hobgoblin",
+              "mysterio",
+              "superior spider-man",
+              "vulture"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Odin + Red Guardian + Living Mummy + Quasar + Captain Britain",
+            "rating": "▼",
+            "notes": "",
+            "tokens": [
+              "captain britain",
+              "living mummy",
+              "odin",
+              "quasar",
+              "red guardian"
+            ],
+            "score": 10
+          },
+          {
+            "display": "Fantastic Four (MCU) + Sentry + Odin",
+            "rating": "▼▼",
+            "notes": "",
+            "tokens": [
+              "fantastic four (mcu)",
+              "odin",
+              "sentry"
+            ],
+            "score": 5
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Adam Warlock + Star-Lord",
+        "counters": [
+          {
+            "display": "Daimon Hellstrom + Yo-Yo + Strange (Heartless) + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daimon hellstrom",
+              "iron patriot",
+              "sentry",
+              "strange (heartless)",
+              "yo-yo"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daring Warrior + Living Mummy / Gwenpool",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior",
+              "gwenpool",
+              "living mummy"
+            ],
+            "score": 40
+          },
+          {
+            "display": "If Magneto (Phoenix Force) had 5 or less Yellow/Red Stars: Daimon Helstrom + Yo-Yo + Strange Heartless + Iron Patriot + Sentry",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "if magneto (phoenix force) had 5 or less yellow",
+              "iron patriot",
+              "red stars: daimon helstrom",
+              "sentry",
+              "strange heartless",
+              "yo-yo"
+            ],
+            "score": 50
+          }
+        ]
+      },
+      {
+        "group": "Phoenix Force + 2",
+        "variant": "Phoenix Force + Gilgamesh + Kingo",
+        "counters": [
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 40
           }
         ]
       },
@@ -7553,6 +7710,16 @@
         "variant": "Symbiote Six",
         "counters": [
           {
+            "display": "Exalted X-Men + Odin (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "odin"
+            ],
+            "score": 50
+          },
+          {
             "display": "Exalted X-Men",
             "rating": "▲▲▲",
             "notes": "",
@@ -7633,6 +7800,16 @@
         "variant": "Symbiote Six + Blue Marvel",
         "counters": [
           {
+            "display": "Exalted X-Men + Odin (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "odin"
+            ],
+            "score": 50
+          },
+          {
             "display": "Exalted X-Men",
             "rating": "▲▲▲",
             "notes": "",
@@ -7658,6 +7835,16 @@
         "group": "Symbiote Six",
         "variant": "Symbiote Six + Howard the Duck",
         "counters": [
+          {
+            "display": "Exalted X-Men + Odin (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "odin"
+            ],
+            "score": 50
+          },
           {
             "display": "Exalted X-Men",
             "rating": "▲▲▲",
@@ -7726,6 +7913,16 @@
         "variant": "Symbiote Six + Captain Britain",
         "counters": [
           {
+            "display": "Exalted X-Men + Odin (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "odin"
+            ],
+            "score": 50
+          },
+          {
             "display": "Exalted X-Men",
             "rating": "▲▲▲",
             "notes": "",
@@ -7779,6 +7976,16 @@
         "group": "Symbiote Six",
         "variant": "Symbiote Six + Professor Xavier",
         "counters": [
+          {
+            "display": "Exalted X-Men + Odin (no Wolverine)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men",
+              "odin"
+            ],
+            "score": 50
+          },
           {
             "display": "Exalted X-Men",
             "rating": "▲▲▲",
@@ -8404,7 +8611,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-10-06T16:49:14Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-07T17:25:50Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -18756,6 +18963,15 @@
               "spider-man"
             ],
             "score": 40
+          },
+          {
+            "display": "Symbiote Six",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
+            ],
+            "score": 30
           }
         ]
       },
@@ -18815,6 +19031,15 @@
             "tokens": [
               "emma frost",
               "winter guard"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Symbiote Six",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
             ],
             "score": 30
           }
