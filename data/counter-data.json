@@ -1,8 +1,8 @@
 {
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
-    "season": "Season 24",
-    "source": "Marvel Church scheduled refresh (2026-10-07T17:25:50Z)",
+    "season": "Season 25",
+    "source": "Marvel Church scheduled refresh (2026-10-08T17:24:37Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -8611,7 +8611,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-10-07T17:25:50Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-08T17:24:37Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -12234,6 +12234,149 @@
               "thunderbolt"
             ],
             "score": 10
+          }
+        ]
+      },
+      {
+        "group": "Dread",
+        "variant": "Dread",
+        "counters": [
+          {
+            "display": "Orchis",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "orchis"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Nightstalker",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "nightstalker"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Vigilante",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "vigilante"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Thunderbolt",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "thunderbolt"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Hellfire Club",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "hellfire club"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Immortal Weapon",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "immortal weapon"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Champion",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "champion"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Insidious Six + Vulture + Shocker",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "insidious six",
+              "shocker",
+              "vulture"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Amazing Avenger",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "amazing avenger"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Iron Raider",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "iron raider"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Starjammer",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "starjammer"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Accursed",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 50
+          },
+          {
+            "display": "New Mutant",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "new mutant"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 30
           }
         ]
       },
