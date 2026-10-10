@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 25",
-    "source": "Marvel Church scheduled refresh (2026-10-09T16:59:53Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-10T15:52:56Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -8611,7 +8611,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-10-09T16:59:53Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-10T15:52:56Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -17583,6 +17583,143 @@
               "vulture"
             ],
             "score": 40
+          }
+        ]
+      },
+      {
+        "group": "Spider-Society + Northstar + Void Knight (Raid Rules)",
+        "variant": "Spider-Society + Northstar + Void Knight (Raid Rules)",
+        "counters": [
+          {
+            "display": "Professor Xavier + 4",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "professor xavier"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Blue Marvel + 4",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "blue marvel"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Hive-Mind + Quasar (no Venom) Use Gwenom’s Special on Void Knight",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "hive-mind",
+              "quasar use gwenom’s special on void knight"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Undying",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "undying"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU) + Ares (no The Thing)",
+            "rating": "▲▲",
+            "notes": "",
+            "tokens": [
+              "ares",
+              "fantastic four (mcu)"
+            ],
+            "score": 40
+          },
+          {
+            "display": "Brimstone Use Hellcat’s Ultimate on Pavitr, then focus on Northstar",
+            "rating": "▲",
+            "notes": "",
+            "tokens": [
+              "brimstone use hellcat’s ultimate on pavitr, then focus on northstar"
+            ],
+            "score": 30
+          },
+          {
+            "display": "Iron Raider + Ares (no Iron Monger)",
+            "rating": "▼",
+            "notes": "",
+            "tokens": [
+              "ares",
+              "iron raider"
+            ],
+            "score": 10
+          },
+          {
+            "display": "Hellfire Club + Mephisto (no Madelyne Pryor)",
+            "rating": "▼",
+            "notes": "",
+            "tokens": [
+              "hellfire club",
+              "mephisto"
+            ],
+            "score": 10
+          },
+          {
+            "display": "Immortal Weapon + Odin (no Iron Fist WWII))",
+            "rating": "▼▼",
+            "notes": "",
+            "tokens": [
+              "immortal weapon",
+              "odin )"
+            ],
+            "score": 5
+          },
+          {
+            "display": "Nightstalker",
+            "rating": "▼▼",
+            "notes": "",
+            "tokens": [
+              "nightstalker"
+            ],
+            "score": 5
+          },
+          {
+            "display": "Symbiote Six",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
+            ],
+            "score": 0
+          },
+          {
+            "display": "Thunderbolt",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "thunderbolt"
+            ],
+            "score": 0
+          },
+          {
+            "display": "Champion",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "champion"
+            ],
+            "score": 0
+          },
+          {
+            "display": "Amazing Avenger",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "amazing avenger"
+            ],
+            "score": 0
           }
         ]
       },
