@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 25",
-    "source": "Marvel Church scheduled refresh (2026-10-24T14:01:05Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-25T14:22:38Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -440,6 +440,15 @@
         "variant": "A.I. Avenger + Howard the Duck (no Hawkeye (Robot))",
         "counters": [
           {
+            "display": "Accursed",
+            "rating": "⊜",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 20
+          },
+          {
             "display": "Dread",
             "rating": "▼▼▼",
             "notes": "",
@@ -447,6 +456,36 @@
               "dread"
             ],
             "score": 0
+          }
+        ]
+      },
+      {
+        "group": "A.I. Avenger",
+        "variant": "A.I. Avenger + Mephisto (no Hawkeye (Robot))",
+        "counters": [
+          {
+            "display": "Accursed",
+            "rating": "▼▼▼",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 0
+          }
+        ]
+      },
+      {
+        "group": "A.I. Avenger",
+        "variant": "A.I. Avenger + Quicksilver (Symbiote) (no Hawkeye (Robot))",
+        "counters": [
+          {
+            "display": "Accursed",
+            "rating": "⊜",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 20
           }
         ]
       },
@@ -8673,7 +8712,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-10-24T14:01:05Z)",
+    "source": "Marvel Church scheduled refresh (2026-10-25T14:22:38Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
