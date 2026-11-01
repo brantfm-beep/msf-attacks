@@ -1,7 +1,7 @@
 {
   "_meta": {
     "source": "Marvel Church Team Breakdowns",
-    "generated_at": "2026-10-31T15:44:35Z",
+    "generated_at": "2026-11-01T16:48:51Z",
     "failures": [
       "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster."
     ]
@@ -269,6 +269,13 @@
       "Ultron",
       "Moonstone",
       "Kang The Conqueror"
+    ],
+    "Menace": [
+      "Sabretooth (Breaker)",
+      "Silver Samurai",
+      "Stryfe",
+      "Blob",
+      "Toad"
     ],
     "Mercs For Money": [
       "Pandapool",
