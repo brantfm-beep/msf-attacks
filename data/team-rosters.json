@@ -1,9 +1,10 @@
 {
   "_meta": {
     "source": "Marvel Church Team Breakdowns",
-    "generated_at": "2026-11-01T16:48:51Z",
+    "generated_at": "2026-11-02T20:22:03Z",
     "failures": [
-      "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster."
+      "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster.",
+      "Savage Land: Only found 0 team members; need at least 3 to use as a partial roster."
     ]
   },
   "teams": {

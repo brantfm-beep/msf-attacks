@@ -169,6 +169,7 @@
     "Jubilee",
     "Juggernaut",
     "Juggernaut (Zombie)",
+    "Ka-Zar",
     "Kahhori",
     "Kang the Conqueror",
     "Karnak",
@@ -302,6 +303,7 @@
     "Sabretooth (Breaker)",
     "Sasquatch",
     "Satana",
+    "Sauron",
     "Scarlet",
     "Scarlet Spider",
     "Scarlet Witch",
@@ -412,5 +414,5 @@
     "Yondu"
   ],
   "source": "Marvel Church character directory + Team Breakdown rosters",
-  "generated_at": "2026-11-01T16:48:51Z"
+  "generated_at": "2026-11-02T20:22:03Z"
 }
