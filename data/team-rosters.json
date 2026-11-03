@@ -1,10 +1,9 @@
 {
   "_meta": {
     "source": "Marvel Church Team Breakdowns",
-    "generated_at": "2026-11-02T20:22:03Z",
+    "generated_at": "2026-11-03T17:51:07Z",
     "failures": [
-      "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster.",
-      "Savage Land: Only found 0 team members; need at least 3 to use as a partial roster."
+      "Annihilator: Only found 0 team members; need at least 3 to use as a partial roster."
     ]
   },
   "teams": {
@@ -385,6 +384,13 @@
       "Jeff the Land Shark",
       "Squirrel Girl",
       "She-Hulk"
+    ],
+    "Savage Land": [
+      "Sauron",
+      "Ka-Zar",
+      "Cyclops (Mighty)",
+      "X-23",
+      "Rogue"
     ],
     "Secret Avenger": [
       "Captain America (Sam)",
