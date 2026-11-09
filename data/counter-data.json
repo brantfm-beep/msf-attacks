@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 25",
-    "source": "Marvel Church scheduled refresh (2026-11-08T16:40:25Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-09T20:43:41Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
@@ -393,6 +393,16 @@
         "variant": "A.I. Avenger",
         "counters": [
           {
+            "display": "Accursed + Mephisto (no Juggernaut and Mordo)",
+            "rating": "▼",
+            "notes": "",
+            "tokens": [
+              "accursed",
+              "mephisto"
+            ],
+            "score": 10
+          },
+          {
             "display": "Blastaar + Thunderstrike + Mephisto + Darkstar + Jeff the Land Shark",
             "rating": "▼▼▼",
             "notes": "",
@@ -402,16 +412,6 @@
               "jeff the land shark",
               "mephisto",
               "thunderstrike"
-            ],
-            "score": 0
-          },
-          {
-            "display": "Accursed + Mephisto (no Juggernaut and Mordo)",
-            "rating": "▼▼▼",
-            "notes": "",
-            "tokens": [
-              "accursed",
-              "mephisto"
             ],
             "score": 0
           }
@@ -8741,7 +8741,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-11-08T16:40:25Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-09T20:43:41Z)",
     "defenses": [
       {
         "group": "Absolute A-Force",
