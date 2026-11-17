@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 25",
-    "source": "Marvel Church scheduled refresh (2026-11-16T20:29:15Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-17T19:11:16Z)",
     "defenses": [
       {
         "group": "A.I. Avenger",
@@ -8780,7 +8780,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-11-16T20:29:15Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-17T19:11:16Z)",
     "defenses": [
       {
         "group": "A. I. Avenger",
@@ -17487,6 +17487,15 @@
         "group": "Retcon",
         "variant": "Retcon",
         "counters": [
+          {
+            "display": "Menace",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "menace"
+            ],
+            "score": 50
+          },
           {
             "display": "Immortal Weapon + Professor Xavier",
             "rating": "▲▲▲",
