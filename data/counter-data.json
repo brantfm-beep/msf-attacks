@@ -2,7 +2,7 @@
   "Cosmic Crucible": {
     "mode": "Cosmic Crucible",
     "season": "Season 25",
-    "source": "Marvel Church scheduled refresh (2026-11-23T22:03:03Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-24T20:39:57Z)",
     "defenses": [
       {
         "group": "A.I. Avenger",
@@ -4650,6 +4650,127 @@
         ]
       },
       {
+        "group": "Iron Raider",
+        "variant": "Iron Raider",
+        "counters": [
+          {
+            "display": "Indisious Six + Green Goblin (Classic) (no Shocker)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "green goblin (classic)",
+              "indisious six"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Fantastic Four (MCU)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "fantastic four (mcu)"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Symbiote Six",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "symbiote six"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Blastaar + Thunderstrike + Kahhori + Guardian + Scientist Supreme (Blastaar needs to have Awakened Basic and Passive)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "blastaar",
+              "guardian",
+              "kahhori",
+              "scientist supreme (blastaar needs to have awakened basic and passive)",
+              "thunderstrike"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Immortal Weapon + Mephisto (no Iron Fist (WWII))",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "immortal weapon",
+              "mephisto )"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Starjammer",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "starjammer"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Accursed",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "accursed"
+            ],
+            "score": 50
+          },
+          {
+            "display": "New Mutant",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "new mutant"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Phoenix Force + 2",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "phoenix force"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Daring Warrior",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "daring warrior"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Exalted X-Men",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "exalted x-men"
+            ],
+            "score": 50
+          },
+          {
+            "display": "Dread + Sentry (no Rhino)",
+            "rating": "▲▲▲",
+            "notes": "",
+            "tokens": [
+              "dread",
+              "sentry"
+            ],
+            "score": 50
+          }
+        ]
+      },
+      {
         "group": "Liberty",
         "variant": "Liberty",
         "counters": [
@@ -8903,7 +9024,7 @@
   "Alliance War": {
     "mode": "Alliance War",
     "season": "Current War Season",
-    "source": "Marvel Church scheduled refresh (2026-11-23T22:03:03Z)",
+    "source": "Marvel Church scheduled refresh (2026-11-24T20:39:57Z)",
     "defenses": [
       {
         "group": "A. I. Avenger",
